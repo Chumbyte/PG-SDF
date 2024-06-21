@@ -1,0 +1,14 @@
+cython==0.29.32
+matplotlib
+scipy
+trimesh
+scikit_image
+tqdm
+open3d==0.16.0
+scikit-learn
+pyrallis==0.3.1
+einops==0.6.1
+pykeops==2.1.2
+rerun-sdk==0.9.1
+wandb==0.15.8
+pyrallis==0.3.1
